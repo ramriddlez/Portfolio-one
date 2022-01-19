@@ -1,2 +1,2 @@
-# Portfolio
-portfolio of my projects
+PORTFOLIO PROJECT
+in this repository, contains my portfolio
